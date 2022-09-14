@@ -1,5 +1,5 @@
 # IcodingRepos
-The repository includes all my repos fully ACed in Icoding experiment. You can treat it as a reference and it may give you some inspiration for you.Different experiments is divided into different branchs.
+The repository includes all my repos fully ACed in Icoding experiment. You can treat it as a reference and it may give you some inspiration for you. Different experiments is divided into different branchs.
 
 Experiment 1: 计算税金(Tax); 计算账单（Bills）; 还贷计算（Loan Balance）; 日期格式转化（Date Format Convention）; 分数加法（Fraction Addition）
 
